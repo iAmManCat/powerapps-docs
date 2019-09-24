@@ -3,6 +3,7 @@ title: getWeekOfYear | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,9 +16,13 @@ ms.assetid: 9d62e091-2276-44e9-9b9f-b216f51b4d05
 
 [!INCLUDE [getweekofyear-description](includes/getweekofyear-description.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Syntax
 
-`getWeekOfYear(value)`
+`context.formatting.getWeekOfYear(value)`
 
 ## Parameters
 

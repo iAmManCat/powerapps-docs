@@ -7,6 +7,7 @@ ms.date: 04/23/2019
 ms.service: "powerapps"
 ms.topic: "article"
 ms.author: "nabuthuk" 
+author: Nkrb
 ---
 
 # Implementing table grid component
@@ -18,6 +19,10 @@ The component header columns and internal record values are bound to the existin
 
 > [!div class="mx-imgBorder"]
 > ![Table Grid component](../media/table-grid-control.png "Table Grid component")
+
+## Available for 
+
+Model-driven apps  
 
 ## Manifest 
 

@@ -7,6 +7,7 @@ ms.date: 04/23/2019
 ms.service: "powerapps"
 ms.topic: "article"
 ms.author: "nabuthuk" 
+author: Nkrb
 ---
 
 # Implementing map component
@@ -17,6 +18,10 @@ This sample component changes the user experience of interacting with address fi
 
 > [!div class="mx-imgBorder"]
 > ![Map component](../media/map-control.png "Map component")
+
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview) 
 
 ## Manifest
 

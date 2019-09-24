@@ -3,6 +3,7 @@ title: getNamedReference | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -14,6 +15,10 @@ ms.assetid: f879cb97-34d2-49ed-bef3-4df0af972b19
 # getNamedReference
 
 [!INCLUDE[./includes/getnamedreference-description.md](./includes/getnamedreference-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

@@ -3,6 +3,7 @@ title: setControlState | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -19,9 +20,17 @@ ms.assetid: 1052db82-7002-44ca-ad1f-9d3d4c311817
 
 [!INCLUDE [setcontrolstate-description](includes/setcontrolstate-description.md)]
 
+## Available for 
+
+Model-driven apps
+
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview) 
+
 ## Syntax
 
-`setControlState(state)`
+`context.mode.setControlState(state)`
 
 ## Parameters
 

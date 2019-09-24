@@ -3,6 +3,7 @@ title: setFilter | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: 5af40d6f-111f-4c74-a2eb-4ffc79025415
 # setFilter
 
 [!INCLUDE [setfilter-description](includes/setfilter-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

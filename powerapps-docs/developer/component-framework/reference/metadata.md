@@ -3,6 +3,7 @@ title: Metadata | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,29 +17,33 @@ ms.assetid: 0a11feb1-0b7d-4591-b7b3-8e45d4e58805
 
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Properties
 
-## DisplayName
+### DisplayName
 
 **Type**: `string`
 
-## LogicalName 
+### LogicalName 
 
 **Type**: `string`
 
-## IsSecured
+### IsSecured
 
 **Type**: `boolean`
 
-## SourceType
+### SourceType
 
 **Type**: `number`
 
-## Description
+### Description
 
 **Type**: `string`
 
-## RequiredLevel
+### RequiredLevel
 
 **Type**: `RequiredLevel`
 

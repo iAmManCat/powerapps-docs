@@ -3,6 +3,7 @@ title: GetRecordId | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: 8d98a8ca-d4e9-405e-bd59-a1207a46020c
 # getRecordId
 
 [!INCLUDE [getrecordid-description](includes/getrecordid-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

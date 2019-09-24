@@ -3,6 +3,7 @@ title: getBarcodeValue | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,9 +17,13 @@ ms.assetid: b7cbb29f-4663-46c4-9aa8-1209a68e73b3
 
 [!INCLUDE[./includes/getbarcodevalue-description.md](./includes/getbarcodevalue-description.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Syntax
 
-`getBarcodeValue()`
+`context.device.getBarcodeValue()`
 
 ## Return Value
 

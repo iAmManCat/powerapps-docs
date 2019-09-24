@@ -3,6 +3,7 @@ title: EntityFormOptions | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,55 +16,59 @@ ms.assetid: 418871c0-59dc-4a7c-a8f9-9364a19f7662
 
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Properties
 
-## createFromEntity: EntityReference
+### createFromEntity: EntityReference
 
 Designates a record that will provide default values based on mapped attribute value. The lookup object has following properties: entity type, id and name.
 
-## entity
+### entity
 
 Unique Id of the entity record to display the form for. 
 
 **Type**: `string`
 
-## entityName
+### entityName
 
 Logical name of the entity to display the form for. 
 
 **Type**: `string`
 
-## formId
+### formId
 
 ID of the form instance to be displayed.
 
 **Type**: `string`
 
-## height
+### height
 
 Height of the form window to be displayed in pixels.
 
 **Type**: `number`
 
-## openInNewWindow
+### openInNewWindow
 
 Whether to display the form in new window
 
 **Type**: `boolean`
 
-## useQuickCreateForm
+### useQuickCreateForm
 
 Whether to open a quick create form. If you don't specify this, by default false is passed. 
 
 **Type**: `boolean`
 
-## width
+### width
 
 Width of the form window to be displayed in pixels.
 
 **Type**: `boolean`
 
-## windowPosition
+### windowPosition
 
 Specifies the window position on the screen.
 

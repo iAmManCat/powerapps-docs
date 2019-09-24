@@ -7,10 +7,16 @@ ms.topic: "reference"
 applies_to: ""
 ms.assetid: c83c3a09-f04e-4dc6-8ddf-ccd0b4cc080e
 ms.author: "nabuthuk"
+author: Nkrb
 ---
 # getOutputs
 
 [!INCLUDE[./includes/getoutputs-description.md](./includes/getoutputs-description.md)]
+
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview)
+
 
 ## Syntax
 

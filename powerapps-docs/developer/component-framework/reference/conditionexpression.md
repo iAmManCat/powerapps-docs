@@ -3,6 +3,7 @@ title: ConditionExpression | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -18,15 +19,19 @@ ms.assetid: bd90b3fd-a4b4-4999-8b53-d2a5dce4966b
 
 [!INCLUDE [conditionexpression-description](includes/conditionexpression-description.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Properties
 
-## attributeName
+### attributeName
 
 The name of the data-set column to apply the filter on.
 
 **Type**: `string`
 
-## conditionOperator
+### conditionOperator
 
 The operator used to evaluate the condition.
 
@@ -73,18 +78,17 @@ The `conditionOperator` value is an enum with the following possible values
 |79|UnderOrEqual|
 |87|ContainValues|
 
-## entityAliasName
+### entityAliasName
 
 Entity alias name so filtering can be used on linked entities.
 
 **Type**: `string`
 
-## value
+### value
 
 The value evaluated by the condition.
 
 **Type**: `string | string[]`
-
 
 ### Related topics
 

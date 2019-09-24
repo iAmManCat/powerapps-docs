@@ -3,6 +3,7 @@ title: formatDateLong | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,9 +17,13 @@ ms.assetid: b1b3449a-4f28-4a4c-97e0-eb1c118376d6
 
 [!INCLUDE [formatdatelong-description](includes/formatdatelong-description.md)]
 
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview)
+
 ## Syntax
 
-`formatDateLong(value)`
+`context.formatting.formatDateLong(value)`
 
 ## Parameters
 

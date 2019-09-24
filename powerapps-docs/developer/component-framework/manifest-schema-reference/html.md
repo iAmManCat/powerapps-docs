@@ -3,7 +3,7 @@ title: HTML Element | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
-manager: jdaly
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -22,12 +22,16 @@ ms.assetid: dcb8e71d-9a2f-4789-9a84-34673ccfd5c1
 
 [!INCLUDE [html-description](includes/html-description.md)]
 
+## Available for
+
+Model-driven apps
+
 ## Attributes
 
-|Name|Description|Type|Required|
-|--|--|--|--|
-|`path`|Relative path w.r.t manifest where HTML files are located|`string`|Yes|
-|`order`|The order in which HTML files must load|`Positive integer`|Optional|
+|Name|Description|Type|Required|Available for|
+|--|--|--|--|----------|
+|`path`|Relative path w.r.t manifest where HTML files are located|`string`|Yes|Model-driven apps|
+|`order`|The order in which HTML files should load|`Positive integer`|Optional|Model-driven apps|
 
 ## Parent Elements
 

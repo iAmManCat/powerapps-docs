@@ -3,6 +3,7 @@ title: Navigation | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -17,6 +18,10 @@ ms.assetid: af1bf8bb-380f-45db-8bbc-b7d4a18e5623
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
 
 [!INCLUDE [navigation-description](includes/navigation-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Methods
 

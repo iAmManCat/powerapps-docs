@@ -3,6 +3,7 @@ title: Factory | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -17,6 +18,10 @@ ms.assetid: 47a15499-c526-4289-a632-49b717ba455f
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
 
 [!INCLUDE [factory-description](includes/factory-description.md)]
+
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview)
 
 ## Methods
 

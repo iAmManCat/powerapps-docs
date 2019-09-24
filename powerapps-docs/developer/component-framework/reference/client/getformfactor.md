@@ -3,6 +3,7 @@ title: getFormFactor | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,13 +17,17 @@ ms.assetid: 0ad24866-08c3-4584-8964-decff50e716e
 
 [!INCLUDE [getformfactor-description](includes/getformfactor-description.md)]
 
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview)
+
 ## Syntax
 
-`getFormFactor()`
+`context.client.getFormFactor()`
 
 ## Return Value
 
-Type: `number`
+Type: `Number`
 
 |Value|Form Factor|
 |---|---|

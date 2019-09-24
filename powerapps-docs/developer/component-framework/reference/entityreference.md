@@ -4,6 +4,7 @@ description:
 keywords:
 ms.author: nabuthuk
 manager: kvivek
+author: nkrb
 ms.date: 04/23/2019
 ms.service: "powerapps"
 ms.suite: ""
@@ -18,21 +19,31 @@ ms.assetid: ad8659f7-f566-43db-bed1-c8484c114a59
 
 [!INCLUDE [entityreference-description](includes/entityreference-description.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Properties
 
-## entityType
+### etn
 
-The entity logical name. Read-only.
+The entity type name. Read-only.
 
 **Type**: `string`
 
-## id
+### id
 
 The record id. Read-only.
 
-**Type**: `string`
+**Type**: `object`
 
-## name
+The `id` object contains the following property:
+
+|Name|Type|Description|
+|--|--|--|
+|`guid`|`string`|00000000-0000-0000-0000-000000000000|
+
+### name
 
 The name of the entity reference. Read-only.
 

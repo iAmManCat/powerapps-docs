@@ -7,10 +7,15 @@ ms.topic: "reference"
 applies_to: ""
 ms.assetid: 4485b7d4-c68f-4298-8676-1820eb33c1ad
 ms.author: "nabuthuk"
+author: Nkrb
 ---
 # init
 
 [!INCLUDE[./includes/init-description.md](./includes/init-description.md)]
+
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview)
 
 ## Syntax
 

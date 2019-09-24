@@ -3,6 +3,7 @@ title: createRecord | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -19,9 +20,13 @@ ms.assetid: 9179f03b-9d26-4253-9535-13ab544d58ac
 
 [!INCLUDE [createrecord-description](includes/createrecord-description.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Syntax
 
-`createRecord(entityLogicalName, data).then(successCallback, errorCallback);`
+`context.webAPI.createRecord(entityLogicalName, data).then(successCallback, errorCallback);`
 
 ## Parameters
 
@@ -69,7 +74,9 @@ ms.assetid: 9179f03b-9d26-4253-9535-13ab544d58ac
 
 ## Return Value
 
-On success, returns a promise object containing the attributes specified earlier in the description of the **successCallback** parameter.
+Type: [Promise](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise)<[EntityReference](../entityreference.md)>
+
+Description: On success, returns a promise object containing the attributes specified earlier in the description of the **successCallback** parameter.
 
 ### Related topics
 

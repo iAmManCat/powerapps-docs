@@ -3,6 +3,7 @@ title: getFormattedValue | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: 74992f97-89b7-401e-ac95-9c8a47f990d1
 # getFormattedValue
 
 [!INCLUDE[./includes/getformattedvalue-description.md](./includes/getformattedvalue-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

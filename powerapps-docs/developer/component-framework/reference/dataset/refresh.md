@@ -3,6 +3,7 @@ title: refresh | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: d8fde7bd-6e69-46cb-a644-d3c527726169
 # refresh
 
 [!INCLUDE[./includes/refresh-description.md](./includes/refresh-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

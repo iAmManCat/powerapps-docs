@@ -7,7 +7,9 @@ ms.date: 04/23/2019
 ms.service: "powerapps"
 ms.topic: "article"
 ms.author: "nabuthuk" 
+author: Nkrb
 ---
+
 # Implementing localization API component
 
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
@@ -18,6 +20,10 @@ PowerApps component framework uses the concept of implementing String(resx) web 
 
 > [!div class="mx-imgBorder"]
 > ![Localization API component](../media/localization-api-control.png "Localization API component")
+
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview) 
 
 ## Manifest 
 

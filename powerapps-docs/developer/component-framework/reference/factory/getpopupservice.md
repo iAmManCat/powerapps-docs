@@ -3,6 +3,7 @@ title: getPopupService | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,9 +17,17 @@ ms.assetid: 878465d9-3e25-44df-ad7b-de50916fd9d2
 
 [!INCLUDE [getpopupservice-description](includes/getpopupservice-description.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Syntax
 
-`getPopupService()`
+`context.factory.getPopupService()`
+
+## Return Value
+
+Type: [PopupService](../popupservice.md)
 
 
 ### Related topics

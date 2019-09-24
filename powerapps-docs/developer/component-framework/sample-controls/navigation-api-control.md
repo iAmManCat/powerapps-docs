@@ -7,6 +7,7 @@ ms.date: 04/23/2019
 ms.service: "powerapps"
 ms.topic: "article"
 ms.author: "nabuthuk" 
+author: Nkrb
 ---
 
 # Implementing Navigation API component
@@ -18,6 +19,9 @@ This sample component explores the various methods available as part of the Powe
 > [!div class="mx-imgBorder"]
 > ![Navigation API component](../media/navigation-api-control.png "Navigation API component")
 
+## Available for 
+
+Model-driven apps
 ## Manifest
 
 ```xml

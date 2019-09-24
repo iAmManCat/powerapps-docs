@@ -3,7 +3,7 @@ title: getSelectedRecordIds | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
-manager: 
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,6 +16,10 @@ ms.assetid: 96fa69f3-38d2-4e95-bb25-02d92aa6296c
 # getSelectedRecordIds
 
 [!INCLUDE[./includes/getselectedrecordids-description.md](./includes/getselectedrecordids-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

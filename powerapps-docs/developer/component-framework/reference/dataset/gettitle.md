@@ -3,6 +3,7 @@ title: getTitle | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: 4e35efbc-4557-41c6-9821-6198bda9a32a
 # getTitle
 
 [!INCLUDE[./includes/gettitle-description.md](./includes/gettitle-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

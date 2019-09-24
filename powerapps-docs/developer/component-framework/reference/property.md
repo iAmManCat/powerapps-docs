@@ -3,6 +3,7 @@ title: Property | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,29 +17,33 @@ ms.assetid: a118f54f-be47-4f35-9ffb-7afa6c296631
 
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
 
+## Available for 
+
+Model-driven apps
+
 ## Properties
 
-## error
+### error
 
 **Type**: `boolean`
 
-## errorMessage
+### errorMessage
 
 **type**: `string`
 
-## formatted
+### formatted
 
 **Type**: `string`
 
-## security
+### security
 
 **Type**: `SecurityValues`
 
-## raw
+### raw
 
 **Type**: `any`
 
-## attribute
+### attribute
 
 **Type**: `FieldPropertyMetadata`
 

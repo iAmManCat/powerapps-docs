@@ -6,7 +6,7 @@ manager: kvivek
 ms.service: powerapps
 ms.component: pa-user
 ms.topic: conceptual
-ms.date: 11/16/2018
+ms.date: 9/23/2019
 ms.author: mduelae
 ms.custom: ""
 ms.reviewer: ""
@@ -23,6 +23,11 @@ The Unified Interface for model-driven apps provides a consistent and accessible
 
 > [!div class="mx-imgBorder"]
 > ![Unified Interface adapts to screen](media/Reflow.png "Unified Interface adapts to screen")
+
+
+
+> [!NOTE]
+> The legacy web client will be deprecated and customers must transition to Unified Interface before October 1, 2020. For more information, see [Announcing the timeline to move to Unified Interface](https://cloudblogs.microsoft.com/dynamics365/it/2019/09/10/announcing-the-timeline-to-move-to-unified-interface/). To learn more on how to transition, see [Quick start for transitioning](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/transition-web-app).
 
 ## Navigation
 
@@ -50,3 +55,7 @@ The business process flow has been improved by the docking mechanism. You can do
 
 ## Accessibility
 The improved accessibility experience lets you use screen readers to translate on-screen information into audible sound and print to a Braille reader so that more people can use the app. For more information, see [Use a screen reader](screen-reader.md).
+
+##  Unified Interface Community
+
+Go to the [Unified Interface Community site](https://community.dynamics.com/365/unified-interface/) to get help with planning and executing a smooth transition to the Unified Interface and engage with experts and peers on blogs, webinars, videos, events, and more.

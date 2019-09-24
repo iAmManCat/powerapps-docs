@@ -3,6 +3,7 @@ title: loadPreviousPage | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: 93cecfc6-bdce-421f-a410-07d95ea77c37
 # loadPreviousPage
 
 [!INCLUDE [loadpreviouspage-description](includes/loadpreviouspage-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

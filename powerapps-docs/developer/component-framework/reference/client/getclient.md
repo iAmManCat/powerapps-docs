@@ -3,6 +3,7 @@ title: getClient | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -18,19 +19,26 @@ ms.assetid: 4b7c18f8-cd00-4f39-8f88-ed9306d6a055
 
 [!INCLUDE [getclient-description](includes/getclient-description.md)]
 
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview) 
+
 ## Syntax
 
-`getClient()`
+`context.client.getClient()`
 
 ## Return Value
 
-Type: `string`
+Type: `String`
 
 Returns a value to indicate in which client the script is executing.
 
-Web: Web application, or Unified Interface
-Outlook: Outlook
-Mobile: Mobile app
+|||
+|-----|-----|
+|Web| Web application, or Unified Interface|
+|Outlook| Outlook|
+|Mobile| Mobile app|
+
 
 
 ### Related topics

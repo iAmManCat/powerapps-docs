@@ -3,6 +3,7 @@ title: Resources | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -17,6 +18,10 @@ ms.assetid: 48dc8649-3a98-4f5e-8319-a6f5e378a9cc
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
 
 [!INCLUDE [resources-description](includes/resources-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Methods
 

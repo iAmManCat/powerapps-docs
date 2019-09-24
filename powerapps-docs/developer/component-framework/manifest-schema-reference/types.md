@@ -3,6 +3,7 @@ title: Types  | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,6 +17,10 @@ ms.assetid: 87f5e921-4114-4710-a362-db741426a69b
 
 
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
+
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview) 
 
 ## Parent Elements
 

@@ -3,6 +3,7 @@ title: formatDateAsFilterStringUTC | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -16,9 +17,13 @@ ms.assetid: a604fbbf-6d09-450d-b686-7a5cb3f3a2bc
 
 [!INCLUDE [formatdateasfilterstringinutc-description](includes/formatdateasfilterstringinutc-description.md)]
 
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview)
+
 ## Syntax
 
-`formatDateAsFilterStringInUTC(value, includeTime)`
+`context.formatting.formatDateAsFilterStringInUTC(value, includeTime)`
 
 ## Parameters
 

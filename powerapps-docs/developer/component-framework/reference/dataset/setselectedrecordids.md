@@ -3,6 +3,7 @@ title: setSelectedRecordIds | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: 61989422-7745-4a0b-9606-37c16a04eab9
 # setSelectedRecordIds
 
 [!INCLUDE[./includes/setselectedrecordids-description.md](./includes/setselectedrecordids-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

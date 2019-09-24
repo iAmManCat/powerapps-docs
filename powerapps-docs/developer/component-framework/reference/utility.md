@@ -3,6 +3,7 @@ title: Utility | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -17,6 +18,10 @@ ms.assetid: b9b232cd-5d3a-4bd6-a745-5242a63978ad
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
 
 [!INCLUDE [utility-description](includes/utility-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Methods
 

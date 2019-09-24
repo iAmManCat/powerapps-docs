@@ -3,6 +3,7 @@ title: clearFilter | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: 6c306633-14a1-4199-95cb-58000b3cafed
 # clearFilter
 
 [!INCLUDE [clearfilter-description](includes/clearfilter-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 

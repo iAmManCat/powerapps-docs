@@ -7,7 +7,9 @@ ms.date: 04/23/2019
 ms.service: "powerapps"
 ms.topic: "article"
 ms.author: "nabuthuk" 
+author: Nkrb
 ---
+
 # Implementing increment component
 
 [!INCLUDE[cc-beta-prerelease-disclaimer](../../../includes/cc-beta-prerelease-disclaimer.md)]
@@ -18,6 +20,10 @@ To implement this component, the first thing you need to define the [Manifest](.
 
 > [!div class="mx-imgBorder"]
 > ![Increment component](../media/increment-control.png "Increment component")
+
+## Available for 
+
+Model-driven apps and canvas apps (experimental preview) 
 
 ## Manifest
 

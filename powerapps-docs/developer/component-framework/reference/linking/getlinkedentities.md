@@ -3,6 +3,7 @@ title: getLinkedEntities | Microsoft Docs
 description: 
 keywords:
 ms.author: nabuthuk
+author: Nkrb
 manager: kvivek
 ms.date: 04/23/2019
 ms.service: "powerapps"
@@ -15,6 +16,10 @@ ms.assetid: feb4e449-935f-452e-a67a-d3cf3c2bdcfb
 # getLinkedEntities
 
 [!INCLUDE [getlinkedentities-description](includes/getlinkedentities-description.md)]
+
+## Available for 
+
+Model-driven apps
 
 ## Syntax
 
